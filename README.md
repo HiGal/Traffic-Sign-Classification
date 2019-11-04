@@ -41,15 +41,9 @@ photo was taken at night flare can be produced by headlight and shift
 scale rotate was chosen to imitate distance between a car and traffic
 sign (shifting and scaling) and to imitate camera deflection (rotate).
 
-![Histogram of 43 classes with their number of examples. Before and
-after augmentation](https://i.imgur.com/HmGHhH8.png) ![Histogram of 43 classes with their
-number of examples. Before and after augmentation](https://i.imgur.com/hAiJS4o.png)
+<img src="https://i.imgur.com/HmGHhH8.png" width="40%"><img src="https://i.imgur.com/hAiJS4o.png" width="40%">
 
-to 
-![Different augmentations techniques](https://i.imgur.com/WtKow2i.png=5x5) ![Different
-augmentations techniques](https://i.imgur.com/9fACjY2.png=5x5) ![Different augmentations
-techniques](https://i.imgur.com/Cc5HVrk.png=5x5) ![Different augmentations techniques](https://i.imgur.com/fWHtcLV.png=5x5)
-
+<img src="https://i.imgur.com/WtKow2i.png" width="40%"> <img src="https://i.imgur.com/9fACjY2.png" width="40%"> <img src="https://i.imgur.com/Cc5HVrk.png" width="40%"><img src="https://i.imgur.com/fWHtcLV.png" width="40%">
 
 # Testing
 
@@ -84,12 +78,9 @@ speed limit 70 \[**Figure 7**\].
 
 Comparison table of overall accuracy of Random Forest Classifier
 
-![Precision and Recall distribution per class](https://i.imgur.com/cfMGPWX.png)
-![Precision and Recall distribution per class](https://i.imgur.com/UjAtLEF.png)
+<img src="https://i.imgur.com/cfMGPWX.png" width="40%"><img src="https://i.imgur.com/UjAtLEF.png" width="40%">
 
-
-![Dependence of accuracy and time on image size](https://i.imgur.com/PM5iQFe.png)
-![Dependence of accuracy and time on image size](https://i.imgur.com/kL99DQS.png)
+<img src="https://i.imgur.com/PM5iQFe.png" width="40%"><img src="https://i.imgur.com/kL99DQS.png" width="40%">
 
 
 ![Incorrect classified images](https://i.imgur.com/4Ut2W5P.png) ![Incorrect classified

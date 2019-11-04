@@ -12,7 +12,7 @@ Before we start further actions we need to make all images of the same
 size. Because dataset contains images from 15x15 to 250x250 sizes
 firstly, we need pad images to the square and after that make a resizing
 
-![Padded and Resized image to 30x30](https://i.imgur.com/R7rRZvH.png)
+![Padded and Resized image to 30x30](https://i.imgur.com/R7rRZvH.png=150x)
 
 # Data Splitting
 
@@ -46,8 +46,8 @@ after augmentation](https://i.imgur.com/HmGHhH8.png) ![Histogram of 43 classes w
 number of examples. Before and after augmentation](https://i.imgur.com/hAiJS4o.png)
 
 to 
-![Different augmentations techniques](https://i.imgur.com/WtKow2i.png) ![Different
-augmentations techniques](https://i.imgur.com/9fACjY2.png) ![Different augmentations
+![Different augmentations techniques](https://i.imgur.com/WtKow2i.png=25x) ![Different
+augmentations techniques](https://i.imgur.com/9fACjY2.png=25x) ![Different augmentations
 techniques](https://i.imgur.com/Cc5HVrk.png) ![Different augmentations techniques](https://i.imgur.com/fWHtcLV.png)
 
 

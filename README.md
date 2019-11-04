@@ -46,9 +46,9 @@ after augmentation](https://i.imgur.com/HmGHhH8.png) ![Histogram of 43 classes w
 number of examples. Before and after augmentation](https://i.imgur.com/hAiJS4o.png)
 
 to 
-![Different augmentations techniques](https://i.imgur.com/WtKow2i.png=25x) ![Different
-augmentations techniques](https://i.imgur.com/9fACjY2.png=25x) ![Different augmentations
-techniques](https://i.imgur.com/Cc5HVrk.png) ![Different augmentations techniques](https://i.imgur.com/fWHtcLV.png)
+![Different augmentations techniques](https://i.imgur.com/WtKow2i.png=5x5) ![Different
+augmentations techniques](https://i.imgur.com/9fACjY2.png=5x5) ![Different augmentations
+techniques](https://i.imgur.com/Cc5HVrk.png=5x5) ![Different augmentations techniques](https://i.imgur.com/fWHtcLV.png=5x5)
 
 
 # Testing
